@@ -5,4 +5,4 @@ ECE1387 course assignment. An FPGA router implemented in c++ using a negotiation
   3. Select router project => properties => Debugging.
   4. Add test case path to the command line (e.g ./tests/cct1.txt)
   5. Build and run the router executable.
-  6. The easygl GUI will pop up. Red lines are routes.
+  6. The easygl GUI will pop up with the FPGA graphics. Red lines are routes.
