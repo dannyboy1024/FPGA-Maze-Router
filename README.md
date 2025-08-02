@@ -1,5 +1,5 @@
 # FPGA-Maze-Router
-An FPGA router implemented in c++ using a negotiation-based Dijkstra algorithm, which effectively resolves net congestion. See uesr instructions below.
+ECE1387 course assignment. An FPGA router implemented in c++ using a negotiation-based Dijkstra algorithm, which effectively resolves net congestion. See uesr instructions below.
   1. Instanll visual studio and open easygl.sln under router/
   2. Change platform to WIN32
   3. Select router project => properties => Debugging.
